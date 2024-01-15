@@ -1,0 +1,10 @@
+To DO:::
+
+button visibility based on actions
+go through PDF and check everything...
+and then im done
+
+Errors:
+Discounting error
+
+NEXT TIME START OUT WITH AN OBJECT CLASS... IT HELPED SIGNIFICANTLY HERE AND MADE READIBILITY/GETTING THINGS EASIER
